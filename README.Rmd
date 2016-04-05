@@ -53,15 +53,15 @@ opts_knit$set(width = 75)
 <br>
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
 ## 監修者1: Kashdan, T. B
 
-- 好奇心をテーマにした講演: Becoming a mad scientist with your life: Todd Kashdan at TEDxUtrecht
+### 好奇心をテーマにした講演: Becoming a mad scientist with your life: Todd Kashdan at TEDxUtrecht
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UunaTEpWrME" frameborder="0" allowfullscreen></iframe>
 
-- Kasdanの日本語書籍
+### Kasdanの日本語書籍
 <div class="columns-2">
  <img src="http://ecx.images-amazon.com/images/I/81NsKUYLoZL.jpg" height="400px" width="300px" />
  <img src="http://ecx.images-amazon.com/images/I/418CeRlM5CL.jpg" height="400px" width="300px" />
@@ -71,11 +71,11 @@ opts_knit$set(width = 75)
 
 ## 監修者2: Ciarrochi, J.
 
-- マインドフルネスをテーマにした講演: Reshape your life: Joseph Ciarrochi at Mind & Its Potential 2014
+### マインドフルネスをテーマにした講演: Reshape your life: Joseph Ciarrochi at Mind & Its Potential 2014
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/45KOT95Uhnk" frameborder="0" allowfullscreen></iframe>
 
-- Ciarrochiの日本語書籍
+### Ciarrochiの日本語書籍
 <div class="columns-2">
  <img src="http://ecx.images-amazon.com/images/I/51ZF0RMC0RL.jpg" height="400px" width="300px" />
  <img src="http://ecx.images-amazon.com/images/I/412AsjjNSnL.jpg" height="400px" width="300px" />
@@ -85,7 +85,7 @@ opts_knit$set(width = 75)
 
 
 # D.シラバス
-- ガイダンス1回+13回発表+総括1回
+### ガイダンス1回+13回発表+総括1回
 
 ```{r, results='asis'}
 a<-1:30
@@ -141,21 +141,21 @@ kable(tab1)
 
 ## ポジティブ心理学関連
 <div class="columns-3">
-![ポジティブ心理学が1冊でわかる本 単行本 – 2015/3/13 イローナ・ボニウェル (著), 成瀬まゆみ (監修, 翻訳), 永島沙友里 (翻訳), 松田由美 (翻訳), & 2 その他(http://www.amazon.co.jp/dp/4336058806/ref=cm_sw_r_tw_dp_oy-axb0CYYGYT)](http://ecx.images-amazon.com/images/I/519OFfjethL.jpg)
+[ポジティブ心理学が1冊でわかる本 単行本 – 2015/3/13 イローナ・ボニウェル (著), 成瀬まゆみ (監修, 翻訳), 永島沙友里 (翻訳), 松田由美 (翻訳), & 2 その他(http://www.amazon.co.jp/dp/4336058806/ref=cm_sw_r_tw_dp_oy-axb0CYYGYT)](http://ecx.images-amazon.com/images/I/519OFfjethL.jpg)
 
-![ポジティブ心理学―21世紀の心理学の可能性 単行本 – 2006/4 島井 哲志 (編集)(http://www.amazon.co.jp/dp/4779500621/ref=cm_sw_r_tw_dp_Bu-axb1B676FR)](http://ecx.images-amazon.com/images/I/5135RWS0CAL.jpg)
+[ポジティブ心理学―21世紀の心理学の可能性 単行本 – 2006/4 島井 哲志 (編集)(http://www.amazon.co.jp/dp/4779500621/ref=cm_sw_r_tw_dp_Bu-axb1B676FR)](http://ecx.images-amazon.com/images/I/5135RWS0CAL.jpg)
 
-![ポジティブ心理学の挑戦 “幸福"から“持続的幸福"へ 単行本 – 2014/10/29マーティン・セリグマン  (著), 宇野カオリ (監修, 翻訳)(http://www.amazon.co.jp/dp/4799315765/ref=cm_sw_r_tw_dp_zw-axb0J5ZGZX)](http://ecx.images-amazon.com/images/I/51d-MSiKXvL.jpg)
+[ポジティブ心理学の挑戦 “幸福"から“持続的幸福"へ 単行本 – 2014/10/29マーティン・セリグマン  (著), 宇野カオリ (監修, 翻訳)(http://www.amazon.co.jp/dp/4799315765/ref=cm_sw_r_tw_dp_zw-axb0J5ZGZX)](http://ecx.images-amazon.com/images/I/51d-MSiKXvL.jpg)
 </div>
 
-![セルフ・コンパッション―あるがままの自分を受け入れる 単行本 – 2014/11/26 クリスティーン・ネフ (著), 石村 郁夫 (翻訳), 樫村 正美 (翻訳)(http://www.amazon.co.jp/dp/4772413960/ref=cm_sw_r_tw_dp_oB-axb0H3H769)](http://ecx.images-amazon.com/images/I/51n5B0RaZBL.jpg)
+[セルフ・コンパッション―あるがままの自分を受け入れる 単行本 – 2014/11/26 クリスティーン・ネフ (著), 石村 郁夫 (翻訳), 樫村 正美 (翻訳)(http://www.amazon.co.jp/dp/4772413960/ref=cm_sw_r_tw_dp_oB-axb0H3H769)](http://ecx.images-amazon.com/images/I/51n5B0RaZBL.jpg)
 
 
 ## ACT関連 
 
-![熊野宏昭 (著),「マインドフルネスそして ACT (アクセプタンス & コミットメント・セラピー)へ-二十一世紀の自分探しプロジェクト-」, 四六判, 164 頁, 定価 1,680 円,星和書店,2011年(http://www.amazon.co.jp/dp/479110787X/ref=cm_sw_r_tw_dp_ZE-axb1GS2CJD)](http://ecx.images-amazon.com/images/I/41BHKYIDjML._SX337_BO1,204,203,200_.jpg)
+[熊野宏昭 (著),「マインドフルネスそして ACT (アクセプタンス & コミットメント・セラピー)へ-二十一世紀の自分探しプロジェクト-」, 四六判, 164 頁, 定価 1,680 円,星和書店,2011年(http://www.amazon.co.jp/dp/479110787X/ref=cm_sw_r_tw_dp_ZE-axb1GS2CJD)](http://ecx.images-amazon.com/images/I/41BHKYIDjML._SX337_BO1,204,203,200_.jpg)
 
-![認知行動療法家のためのACTガイドブック 単行本（ソフトカバー） 2011/8/26 Ｊ・Ｖ・チャロッキ (著), Ａ・ベイリー (著), 武藤　崇  (翻訳), 嶋田　洋徳 (翻訳)(http://www.amazon.co.jp/dp/4791107829/ref=cm_sw_r_tw_dp_qD-axb1YQTG1J)](http://ecx.images-amazon.com/images/I/412AsjjNSnL.jpg)
+[認知行動療法家のためのACTガイドブック 単行本（ソフトカバー） 2011/8/26 Ｊ・Ｖ・チャロッキ (著), Ａ・ベイリー (著), 武藤　崇  (翻訳), 嶋田　洋徳 (翻訳)(http://www.amazon.co.jp/dp/4791107829/ref=cm_sw_r_tw_dp_qD-axb1YQTG1J)](http://ecx.images-amazon.com/images/I/412AsjjNSnL.jpg)
 
 
 
