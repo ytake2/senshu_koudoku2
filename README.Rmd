@@ -58,7 +58,7 @@ opts_knit$set(width = 75)
 <br>
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
 ## 監修者1: Kashdan, T. B
 
