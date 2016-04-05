@@ -2,7 +2,7 @@
 title: "心理学講読2016"
 date: "`r Sys.Date()`"
 author: 竹林由武
-output: 
+output: #word_document
  rmdformats::readthedown:
   self_contained: true
   thumbnails: false
