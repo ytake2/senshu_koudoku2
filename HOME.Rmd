@@ -2,12 +2,11 @@
 title: "心理学講読2016"
 date: "`r Sys.Date()`"
 author: 竹林由武
-output: html_document
-
-#  rmdformats::readthedown:
-#    self_contained: true
-#    thumbnails: false
-#    lightbox: false
+output: 
+  rmdformats::readthedown:
+    self_contained: true
+    thumbnails: false
+    lightbox: false
 ---
 
 
