@@ -1,0 +1,111 @@
+---
+title: "心理学講読"
+date: "`r Sys.Date()`"
+author: "竹林由武"
+affiliation: "統計数理研究所"
+address: ytake2 at ism.ac.jp
+
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+
+#　教科書
+
+<div class="columns-2">
+![http://www.amazon.com/Mindfulness-Acceptance-Positive-Psychology-Foundations/dp/1608823377](http://ecx.images-amazon.com/images/I/5126dsKKIPL._SX331_BO1,204,203,200_.jpg)
+Kashdan, T. B., & Ciarrochi, J. (Eds.). (2013). Mindfulness, acceptance, and positive psychology: The seven foundations of well-being. New Harbinger Publications.
+</div>
+
+
+## Kashdan, T. B
+
+- Becoming a mad scientist with your life: Todd Kashdan at TEDxUtrecht
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UunaTEpWrME" frameborder="0" allowfullscreen></iframe>
+
+## Ciarrochi, J.
+- Reshape your life with Professor Joseph Ciarrochi at Mind & Its Potential 2014
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45KOT95Uhnk" frameborder="0" allowfullscreen></iframe>
+
+
+# 本講義の目標
+
+### ポジティブ心理学の諸概念を、アクセプタンス&コミットメントセラピーの理論体系に基づいて、行動論的観点から理解し、臨床心理学的問題への介入方法に関する知識を習得する。
+
+# 講義概要
+### 本講読においては、ウェルビーイングの向上との関連が指摘されているポジティブ心理学の諸概念を、アクセプタンス&コミットメントセラピーの理論体系に基づいて行動論的観点から理解するための書籍を講読する。
+
+## 背景
+- ウェルビーイングは、個人の幸福度を反映する概念であり、ポジティブ心理学領域を中心に研究がなされている。
+- 臨床心理学領域においても、2010年頃からウェルビーイングに関する実証研究への関心が一段と高まり、ウェルビーイングと関連する心理機能が病理の改善または予防に有効であることを示す知見が散見されるようになってきた。
+- それらの心理機能は、行動論に基づく心理学的介入であるアクセプタンス&コミットメントセラピーにおいて操作的に定義され、ウェルビーイングの向上を促す行動変容の方略が体系化されている。
+- これまでの臨床心理学の研究によって理解が進んだ人のネガティブな側面に関する知識に加えて、ポジティブな側面をマネジメントするための理論と方法を理解することは、臨床心理学の研究と実践の発展に役立つ。
+
+
+# シラバス
+```{r, results='asis'}
+a<-1:30
+b<-c("前期ガイダンスと講読内容の概説",
+"ポジティブ心理学とアクセプタンス&コミットメントセラピーの接点1",
+"ポジティブ心理学とアクセプタンス&コミットメントセラピーの接点2
+","マインドフルネスと認知・感情システム１",
+"マインドフルネスと認知・感情システム２",
+"マインドフルネスと認知・感情システム３",
+"愛と人間らしさ",
+"セルフ・コンパッション (自己への慈しみ)とアクセプタンス&コミットメントセラピー１",
+"セルフ・コンパッション (自己への慈しみ)とアクセプタンス&コミットメントセラピー２",
+"視点取得１", 
+"視点取得２",
+"コミットされた行為１",
+"ポジティブな側面に焦点を当てた介入の概観１",
+"ポジティブな側面に焦点を当てた介入の概観２",
+"前期の総括",
+"後期ガイダンスと講読内容の概説",
+"ポジティブ心理学的介入： 関係フレーム理論による考察１",
+"ポジティブ心理学的介入： 関係フレーム理論による考察２",
+"文脈を考慮したポジティブ心理学的介入１",
+"文脈を考慮したポジティブ心理学的介入２",
+"罪責感や恥の受容：道徳感情に対するポジティブなアプローチ１",
+"罪責感や恥の受容：道徳感情に対するポジティブなアプローチ２",
+"コミットされた行為２",
+"コミットされた行為３",
+"関係フレーム理論に基づく知能の発達１",
+"関係フレーム理論に基づく知能の発達２",
+"関係フレーム理論に基づく知能の発達３",
+"ポジティブ心理学とアクセプタンス&コミットメントセラピーの対話１",
+"ポジティブ心理学とアクセプタンス&コミットメントセラピーの対話２",
+"総括")
+
+tab1<-data.frame(講義=a, 内容=b)
+kable(tab1)
+```
+
+# 成績評価方法・基準
+
+'各回の内容についての理解を前提とし、発表・プレゼンテーションの内容（70%）と議論・授業への貢献度（30%）の平常点で判定する。'
+
+
+# 履修上の留意点
+
+'準備学習においては、教科書・参考書の各回の授業内容に該当する範囲を読み、授業での議論に備える。 
+事後学習においては、授業でノートしたことを整理し、関連文献を読むなどして、理解の深化に努める。'
+
+
