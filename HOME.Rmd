@@ -3,10 +3,10 @@ title: "心理学講読2016"
 date: "`r Sys.Date()`"
 author: 竹林由武
 output: 
-  rmdformats::readthedown:
-    self_contained: true
-    thumbnails: false
-    lightbox: false
+ rmdformats::readthedown:
+  self_contained: true
+  thumbnails: false
+  lightbox: false
 ---
 
 
