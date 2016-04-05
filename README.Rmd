@@ -2,11 +2,12 @@
 title: "心理学講読2016"
 date: "`r Sys.Date()`"
 author: 竹林由武
-output: 
-　rmdformats::readthedown:
-    self_contained: true
-    thumbnails: false
-    lightbox: false
+output: html_document
+
+#  rmdformats::readthedown:
+#    self_contained: true
+#    thumbnails: false
+#    lightbox: false
 ---
 
 
@@ -61,9 +62,8 @@ opts_knit$set(width = 75)
   
 ## 監修者1: Kashdan, T. B
 
-### 好奇心をテーマにした講演: Becoming a mad scientist with your life: Todd Kashdan at TEDxUtrecht(https://www.youtube.com/embed/UunaTEpWrME)
+### 好奇心をテーマにした講演: Becoming a mad scientist with your life: Todd Kashdan at TEDxUtrecht(https://www.youtube.com/watch?v=UunaTEpWrME)
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UunaTEpWrME" frameborder="0" allowfullscreen></iframe>
 
 ### Kasdanの日本語書籍
 <div class="columns-2">
@@ -75,9 +75,8 @@ opts_knit$set(width = 75)
 
 ## 監修者2: Ciarrochi, J.
 
-### マインドフルネスをテーマにした講演: Reshape your life: Joseph Ciarrochi at Mind & Its Potential 2014(https://www.youtube.com/embed/45KOT95Uhnk)
+### マインドフルネスをテーマにした講演: Reshape your life: Joseph Ciarrochi at Mind & Its Potential 2014(https://www.youtube.com/watch?v=45KOT95Uhnk)
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45KOT95Uhnk" frameborder="0" allowfullscreen></iframe>
 
 ### Ciarrochiの日本語書籍
 <div class="columns-2">
